@@ -38,4 +38,4 @@ The dataset contains anonymized customer data from PowerCo, including:
 - Churn status
 
 # Google Collab File
-[Click here to open Google Collab File].(https://colab.research.google.com/drive/1tjuxok_JImtaQR64G9-GP0aeYBtaTf89?usp=sharing)
+[Click here to open Google Collab File].(https://colab.research.google.com/drive/12WR16IrYVYvnSLgZe4armnpUxprbrRuK?usp=sharing)
